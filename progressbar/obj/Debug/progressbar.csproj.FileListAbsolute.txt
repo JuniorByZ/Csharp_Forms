@@ -1,0 +1,11 @@
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\bin\Debug\progressbar.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\bin\Debug\progressbar.exe
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\bin\Debug\progressbar.pdb
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\obj\Debug\progressbar.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\obj\Debug\progressbar.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\obj\Debug\progressbar.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\obj\Debug\progressbar.exe
+C:\wamp\www\Csharp\Csharp_Forms\progressbar\obj\Debug\progressbar.pdb

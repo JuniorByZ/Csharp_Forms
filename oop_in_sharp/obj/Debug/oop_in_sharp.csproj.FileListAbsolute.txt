@@ -1,0 +1,14 @@
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\bin\Debug\oop_in_sharp.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\bin\Debug\oop_in_sharp.exe
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\bin\Debug\oop_in_sharp.pdb
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.exe
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.pdb
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.Form2.resources
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.Form3.resources
+C:\wamp\www\Csharp\Csharp_Forms\oop_in_sharp\obj\Debug\oop_in_sharp.Form4.resources

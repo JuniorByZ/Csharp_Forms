@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aae9be47-f6d1-4ed3-85a8-569e82e03edb": {
+      "ProjectGuid": "aae9be47-f6d1-4ed3-85a8-569e82e03edb",
+      "DisplayName": "progressbar",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,16 @@
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\bin\Debug\muzikcalar.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\bin\Debug\muzikcalar.exe
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\bin\Debug\muzikcalar.pdb
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\bin\Debug\Interop.WMPLib.dll
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\bin\Debug\AxInterop.WMPLib.dll
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\Interop.WMPLib.dll
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\AxInterop.WMPLib.dll
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.csproj.ResolveComReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.musicplayer.resources
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.exe
+C:\wamp\www\Csharp\Csharp_Forms\muzikcalar\obj\Debug\muzikcalar.pdb

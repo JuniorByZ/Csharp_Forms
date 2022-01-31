@@ -1,0 +1,11 @@
+C:\wamp\www\Csharp\Csharp_Forms\hareket\bin\Debug\hareket.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\hareket\bin\Debug\hareket.exe
+C:\wamp\www\Csharp\Csharp_Forms\hareket\bin\Debug\hareket.pdb
+C:\wamp\www\Csharp\Csharp_Forms\hareket\obj\Debug\hareket.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\hareket\obj\Debug\hareket.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\hareket\obj\Debug\hareket.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\hareket\obj\Debug\hareket.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\hareket\obj\Debug\hareket.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\hareket\obj\Debug\hareket.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\hareket\obj\Debug\hareket.exe
+C:\wamp\www\Csharp\Csharp_Forms\hareket\obj\Debug\hareket.pdb

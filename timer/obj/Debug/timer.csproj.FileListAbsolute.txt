@@ -1,0 +1,11 @@
+C:\wamp\www\Csharp\Csharp_Forms\timer\bin\Debug\timer.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\timer\bin\Debug\timer.exe
+C:\wamp\www\Csharp\Csharp_Forms\timer\bin\Debug\timer.pdb
+C:\wamp\www\Csharp\Csharp_Forms\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\timer\obj\Debug\timer.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\timer\obj\Debug\timer.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\timer\obj\Debug\timer.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\timer\obj\Debug\timer.exe
+C:\wamp\www\Csharp\Csharp_Forms\timer\obj\Debug\timer.pdb

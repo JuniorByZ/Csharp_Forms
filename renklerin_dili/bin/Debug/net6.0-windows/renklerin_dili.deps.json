@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "renklerin_dili/1.0.0": {
+        "runtime": {
+          "renklerin_dili.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "renklerin_dili/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

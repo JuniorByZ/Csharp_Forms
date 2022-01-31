@@ -1,0 +1,11 @@
+C:\wamp\www\Csharp\Csharp_Forms\diziler\bin\Debug\diziler.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\diziler\bin\Debug\diziler.exe
+C:\wamp\www\Csharp\Csharp_Forms\diziler\bin\Debug\diziler.pdb
+C:\wamp\www\Csharp\Csharp_Forms\diziler\obj\Debug\diziler.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\diziler\obj\Debug\diziler.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\diziler\obj\Debug\diziler.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\diziler\obj\Debug\diziler.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\diziler\obj\Debug\diziler.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\diziler\obj\Debug\diziler.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\diziler\obj\Debug\diziler.exe
+C:\wamp\www\Csharp\Csharp_Forms\diziler\obj\Debug\diziler.pdb

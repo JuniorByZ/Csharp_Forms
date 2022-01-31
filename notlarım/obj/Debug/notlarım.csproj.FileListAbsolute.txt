@@ -1,0 +1,13 @@
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\bin\Debug\notlarım.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\bin\Debug\notlarım.exe
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\bin\Debug\notlarım.pdb
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.exe
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.pdb
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.ana_form.resources
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.tarih_zaman.resources
+C:\wamp\www\Csharp\Csharp_Forms\notlarım\obj\Debug\notlarım.tarih_zaman1.resources

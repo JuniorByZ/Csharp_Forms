@@ -1,0 +1,17 @@
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.AssemblyInfoInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.AssemblyInfo.cs
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\bin\Debug\net6.0-windows\kayit_defteri.exe
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\bin\Debug\net6.0-windows\kayit_defteri.deps.json
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\bin\Debug\net6.0-windows\kayit_defteri.runtimeconfig.json
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\bin\Debug\net6.0-windows\kayit_defteri.dll
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\bin\Debug\net6.0-windows\ref\kayit_defteri.dll
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\bin\Debug\net6.0-windows\kayit_defteri.pdb
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.dll
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\ref\kayit_defteri.dll
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.pdb
+C:\wamp\www\Csharp\Csharp_Forms\kayit_defteri\obj\Debug\net6.0-windows\kayit_defteri.genruntimeconfig.cache

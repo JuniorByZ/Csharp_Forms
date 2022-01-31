@@ -1,0 +1,12 @@
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\bin\Debug\pointkullanımveasansoruygulama.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\bin\Debug\pointkullanımveasansoruygulama.exe
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\bin\Debug\pointkullanımveasansoruygulama.pdb
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.exe
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.pdb
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\pointkullanımveasansoruygulama\obj\Debug\pointkullanımveasansoruygulama.Form2.resources

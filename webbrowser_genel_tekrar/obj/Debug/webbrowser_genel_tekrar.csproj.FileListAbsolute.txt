@@ -1,0 +1,11 @@
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\bin\Debug\webbrowser_genel_tekrar.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\bin\Debug\webbrowser_genel_tekrar.exe
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\bin\Debug\webbrowser_genel_tekrar.pdb
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\obj\Debug\webbrowser_genel_tekrar.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\obj\Debug\webbrowser_genel_tekrar.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\obj\Debug\webbrowser_genel_tekrar.ana_ekran.resources
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\obj\Debug\webbrowser_genel_tekrar.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\obj\Debug\webbrowser_genel_tekrar.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\obj\Debug\webbrowser_genel_tekrar.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\obj\Debug\webbrowser_genel_tekrar.exe
+C:\wamp\www\Csharp\Csharp_Forms\webbrowser_genel_tekrar\obj\Debug\webbrowser_genel_tekrar.pdb

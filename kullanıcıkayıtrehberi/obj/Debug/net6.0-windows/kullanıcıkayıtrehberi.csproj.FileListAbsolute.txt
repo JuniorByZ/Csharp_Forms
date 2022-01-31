@@ -1,0 +1,16 @@
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.AssemblyInfoInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.AssemblyInfo.cs
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\bin\Debug\net6.0-windows\kullanıcıkayıtrehberi.exe
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\bin\Debug\net6.0-windows\kullanıcıkayıtrehberi.deps.json
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\bin\Debug\net6.0-windows\kullanıcıkayıtrehberi.runtimeconfig.json
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\bin\Debug\net6.0-windows\kullanıcıkayıtrehberi.dll
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\bin\Debug\net6.0-windows\ref\kullanıcıkayıtrehberi.dll
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\bin\Debug\net6.0-windows\kullanıcıkayıtrehberi.pdb
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.dll
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\ref\kullanıcıkayıtrehberi.dll
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.pdb
+C:\wamp\www\Csharp\Csharp_Forms\kullanıcıkayıtrehberi\obj\Debug\net6.0-windows\kullanıcıkayıtrehberi.genruntimeconfig.cache

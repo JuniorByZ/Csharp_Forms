@@ -1,0 +1,17 @@
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\bin\Debug\net6.0-windows\merhabadunya.exe
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\bin\Debug\net6.0-windows\merhabadunya.deps.json
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\bin\Debug\net6.0-windows\merhabadunya.runtimeconfig.json
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\bin\Debug\net6.0-windows\merhabadunya.dll
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\bin\Debug\net6.0-windows\ref\merhabadunya.dll
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\bin\Debug\net6.0-windows\merhabadunya.pdb
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.AssemblyInfoInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.AssemblyInfo.cs
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.dll
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\ref\merhabadunya.dll
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.pdb
+C:\wamp\www\Csharp\Csharp_Forms\merhabadunya\obj\Debug\net6.0-windows\merhabadunya.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\bin\Debug\tab_format.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\bin\Debug\tab_format.exe
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\bin\Debug\tab_format.pdb
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\obj\Debug\tab_format.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\obj\Debug\tab_format.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\obj\Debug\tab_format.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\obj\Debug\tab_format.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\obj\Debug\tab_format.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\obj\Debug\tab_format.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\obj\Debug\tab_format.exe
+C:\wamp\www\Csharp\Csharp_Forms\tab_format\obj\Debug\tab_format.pdb

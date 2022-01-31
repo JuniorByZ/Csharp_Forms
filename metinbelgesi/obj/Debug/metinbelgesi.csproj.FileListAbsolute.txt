@@ -1,0 +1,11 @@
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\bin\Debug\metinbelgesi.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\bin\Debug\metinbelgesi.exe
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\bin\Debug\metinbelgesi.pdb
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\obj\Debug\metinbelgesi.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\obj\Debug\metinbelgesi.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\obj\Debug\metinbelgesi.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\obj\Debug\metinbelgesi.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\obj\Debug\metinbelgesi.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\obj\Debug\metinbelgesi.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\obj\Debug\metinbelgesi.exe
+C:\wamp\www\Csharp\Csharp_Forms\metinbelgesi\obj\Debug\metinbelgesi.pdb

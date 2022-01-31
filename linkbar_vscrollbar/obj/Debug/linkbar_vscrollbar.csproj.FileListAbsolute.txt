@@ -1,0 +1,11 @@
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\bin\Debug\linkbar_vscrollbar.exe.config
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\bin\Debug\linkbar_vscrollbar.exe
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\bin\Debug\linkbar_vscrollbar.pdb
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\obj\Debug\linkbar_vscrollbar.csproj.AssemblyReference.cache
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\obj\Debug\linkbar_vscrollbar.csproj.SuggestedBindingRedirects.cache
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\obj\Debug\linkbar_vscrollbar.Form1.resources
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\obj\Debug\linkbar_vscrollbar.Properties.Resources.resources
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\obj\Debug\linkbar_vscrollbar.csproj.GenerateResource.cache
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\obj\Debug\linkbar_vscrollbar.csproj.CoreCompileInputs.cache
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\obj\Debug\linkbar_vscrollbar.exe
+C:\wamp\www\Csharp\Csharp_Forms\linkbar_vscrollbar\obj\Debug\linkbar_vscrollbar.pdb
